@@ -1,9 +1,9 @@
-import WebIcon from './../../../images/services/web-app.png'
-import PhoneIcon from './../../../images/services/phone.png'
-import TutorIcon from './../../../images/services/teacher.png'
-import SpreadsheetIcon from './../../../images/services/spreadsheet.png'
-import DesktopIcon from './../../../images/services/computer.png'
-import AutomationIcon from './../../../images/services/robot.png'
+import WebIcon from './../../../../images/services/web-app.png'
+import PhoneIcon from './../../../../images/services/phone.png'
+import TutorIcon from './../../../../images/services/teacher.png'
+import SpreadsheetIcon from './../../../../images/services/spreadsheet.png'
+import DesktopIcon from './../../../../images/services/computer.png'
+import AutomationIcon from './../../../../images/services/robot.png'
 
 
 const serviceDescriptions = [

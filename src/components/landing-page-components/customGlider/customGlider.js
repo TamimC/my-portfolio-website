@@ -1,19 +1,19 @@
 import React from "react";
 import Slider from "react-slick";
 import CustomGliderItem from "./customGliderItem";
-import HTMLicon from './../../images/experienceSymbols/html5Symbol.png';
-import CSSicon from './../../images/experienceSymbols/CSS3Symbol.png';
-import JSicon from './../../images/experienceSymbols/JSSymbol.png';
-import Javaicon from './../../images/experienceSymbols/java.png';
-import CIcon from './../../images/experienceSymbols/CIcon.png';
-import PIcon from './../../images/experienceSymbols/pythonIcon.png';
-import EIcon from './../../images/experienceSymbols/eiffel.png';
-import SQLICon from './../../images/experienceSymbols/mySQLIcon.png';
-import PostGreIcon from './../../images/experienceSymbols/database-postgre-sql.png';
-import MongoIcon from './../../images/experienceSymbols/mongoIcon.png';
-import ExcelIcon from './../../images/experienceSymbols/ExcelIcon.png';
-import ReactIcon from './../../images/experienceSymbols/ReactIcon.png';
-import SpringIcon from './../../images/experienceSymbols/SpringIcon.png';
+import HTMLicon from './../../../images/experienceSymbols/html5Symbol.png';
+import CSSicon from './../../../images/experienceSymbols/CSS3Symbol.png';
+import JSicon from './../../../images/experienceSymbols/JSSymbol.png';
+import Javaicon from './../../../images/experienceSymbols/java.png';
+import CIcon from './../../../images/experienceSymbols/CIcon.png';
+import PIcon from './../../../images/experienceSymbols/pythonIcon.png';
+import EIcon from './../../../images/experienceSymbols/eiffel.png';
+import SQLICon from './../../../images/experienceSymbols/mySQLIcon.png';
+import PostGreIcon from './../../../images/experienceSymbols/database-postgre-sql.png';
+import MongoIcon from './../../../images/experienceSymbols/mongoIcon.png';
+import ExcelIcon from './../../../images/experienceSymbols/ExcelIcon.png';
+import ReactIcon from './../../../images/experienceSymbols/ReactIcon.png';
+import SpringIcon from './../../../images/experienceSymbols/SpringIcon.png';
 
 
 

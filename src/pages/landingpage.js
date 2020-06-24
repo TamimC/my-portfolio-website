@@ -1,7 +1,6 @@
 import React, {Component} from 'react'
-import { Grid, Cell } from 'react-mdl'
-import IntroJumbotron from './../components/IntroJumbotron'
-import ServiceJumbotron from './../components/serviceContainer/serviceContainer'
+import IntroJumbotron from '../components/landing-page-components/IntroJumbotron'
+import ServiceJumbotron from '../components/landing-page-components/serviceContainer/serviceContainer'
 
 
 class landingPage extends Component {

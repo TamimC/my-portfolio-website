@@ -8,7 +8,7 @@ const IntroJumbotron = () => {
         <Jumbotron >
             <Container fluid = "true" className = "flex-container">
                 <div className = "container-item-photo">
-                    <Image src= {require("./../images/tamimHead.jpg")} className = "photo" roundedCircle />
+                    <Image src= {require("./../../images/tamimHead.jpg")} className = "photo" roundedCircle />
                 </div>
                 <Container className = "container-item-intro">
                     <h1>Welcome to Tamim Technologies!</h1>

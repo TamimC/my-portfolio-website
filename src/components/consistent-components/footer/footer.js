@@ -33,13 +33,13 @@ const Footer = () =>{
                             <p>Follow/Connect with Me!</p>
                             <Row>
                                 <a href = 'https://www.linkedin.com/in/tamim-chowdhury-a17844179/' >
-                                    <Image className = "social-images" src = {require('./../../images/social-media/linkedin.png')}/> </a>
+                                    <Image className = "social-images" src = {require('./../../../images/social-media/github.png')}/> </a>
                                 <a href = 'https://github.com/TamimC' >
-                                <Image className = "social-images" src = {require('./../../images/social-media/github.png')}/> </a>
+                                    <Image className = "social-images" src = {require('./../../../images/social-media/linkedin.png')}/> </a>
                                 <a href = 'https://www.youtube.com/channel/UCpSFUut4UmocJmZ4i9HtU3w' >
-                                <Image className = "social-images" src = {require('./../../images/social-media/youtube.png')}/></a>
+                                    <Image className = "social-images" src = {require('./../../../images/social-media/linkedin.png')}/> </a>
                                 <a href = 'https://twitter.com/tamimchowdhury_' >
-                                <Image className = "social-images" src = {require('./../../images/social-media/twitter.png')}/> </a>
+                                    <Image className = "social-images" src = {require('./../../../images/social-media/linkedin.png')}/> </a>
                             </Row>
                             
                     </div>

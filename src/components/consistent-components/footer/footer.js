@@ -37,9 +37,9 @@ const Footer = () =>{
                                 <a href = 'https://github.com/TamimC' >
                                     <Image className = "social-images" src = {require('./../../../images/social-media/linkedin.png')}/> </a>
                                 <a href = 'https://www.youtube.com/channel/UCpSFUut4UmocJmZ4i9HtU3w' >
-                                    <Image className = "social-images" src = {require('./../../../images/social-media/linkedin.png')}/> </a>
+                                    <Image className = "social-images" src = {require('./../../../images/social-media/youtube.png')}/> </a>
                                 <a href = 'https://twitter.com/tamimchowdhury_' >
-                                    <Image className = "social-images" src = {require('./../../../images/social-media/linkedin.png')}/> </a>
+                                    <Image className = "social-images" src = {require('./../../../images/social-media/twitter.png')}/> </a>
                             </Row>
                             
                     </div>

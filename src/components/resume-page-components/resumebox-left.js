@@ -13,7 +13,7 @@ const ResumeLeftBox = () => {
             <h5>Frameworks & Libraries</h5>
             <p>Spring, React JS, JUnit, Bootstrap</p>
             <h5>Tools & IDEs</h5>
-            <p>IntelliJ, Git, Eclipse, Visual Studio, Visual Studio Code, Android Studio, Docker, UNIX, Linux, Bash, Virtualization, CLI, Microsoft Excelt</p>
+            <p>IntelliJ, Git, Eclipse, Visual Studio, Visual Studio Code, Android Studio, Docker, UNIX, Linux, Bash, Virtualization, CLI, Microsoft Excel</p>
             <h5>Databases</h5>
             <p>Postgres, MySQL, MongoDB</p>  
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import {Jumbotron, Container, Button} from 'react-bootstrap'
+import {Jumbotron, Container} from 'react-bootstrap'
 import ServiceContainerItem from './serviceContainerItem';
 import serviceDescriptions from './serviceDescriptions/service-descriptions';
 
@@ -10,7 +10,8 @@ const ServiceJumbotron = () =>
             <Jumbotron className = "cloud">
             <h1 className = "text-center"> Services</h1>
                 <Container fluid = "true" className = "flex-container">
-                    { serviceDescriptions.map(service => {
+                    { 
+                        serviceDescriptions.map(service => {
                         return(
                             <ServiceContainerItem image = {service.image} serviceType = {service.serviceType} slogan = {service.slogan} description = {service.description}/> 
                         )

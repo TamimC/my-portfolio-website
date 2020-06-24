@@ -51,6 +51,15 @@
   flex-basis: 33%;
 }
 
+.alignleft {
+  float: left;
+  font-weight:bold;
+}
+.alignright {
+  float: right;
+  font-style: italic;
+}
+
 @media(max-width:1040px){
   .container-item{
     flex-basis: 100%;

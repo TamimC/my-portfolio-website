@@ -8,11 +8,29 @@
 
 .cloud{
   padding-top: 20px;
+  padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
 }
 
+.resumebox-left{
+  display: block;
+  margin-bottom: 0px  !important;
+  margin: 2.5px;
+  width: 30%;
+  height: auto;
+}
+
+.resumebox-right{
+  display: block;
+  width: 69%;
+  height: auto;
+  margin: 2.5px;
+  margin-bottom: 0px  !important;
+}
+
 .flex-container{
+  margin-bottom: 0px  !important;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -23,7 +41,6 @@
   width:100% !important;
   height:auto;
   text-align: center;
-  margin-left: 100%;
 }
 
 .container-item{
@@ -34,8 +51,14 @@
   flex-basis: 33%;
 }
 
-@media(max-width:768px){
+@media(max-width:1040px){
   .container-item{
+    flex-basis: 100%;
+  }
+  .resumebox-left{
+    flex-basis: 100%;
+  }
+  .resumebox-right{
     flex-basis: 100%;
   }
 }

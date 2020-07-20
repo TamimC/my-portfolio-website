@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {Container, Col, Row, Jumbotron} from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 import ResumeLeftBox from '../components/resume-page-components/resumebox-left'
 import ResumeRightBox from '../components/resume-page-components/resumebox-right';
 

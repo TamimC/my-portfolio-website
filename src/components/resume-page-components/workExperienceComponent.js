@@ -8,15 +8,11 @@ const WorkExperienceComponent = (props) => {
             <div style={{clear: "both"}}> </div>
             <p style={{fontStyle: "italic"}}>{props.jobtitle}</p>
             <ul>
-                {props.summary.map(ListSummary)}
+                {props.summary.map(exp =>{
+                    return <li>{exp}</li>
+                })}
             </ul>
         </div>
-    );
-}
-
-function ListSummary(exp){
-    return(
-        <li>{exp}</li>
     );
 }
 

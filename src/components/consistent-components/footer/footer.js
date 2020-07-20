@@ -19,11 +19,11 @@ const Footer = () =>{
                         <div class="widget no-box">
                             <h5 class="widget-title">Navigation<span></span></h5>
                             <ul class="thumbnail-widget">
-                                <li> <div class="thumb-content"><a href="#.">Resume</a></div></li>
-                                <li> <div class="thumb-content"><a href="#.">Blog</a></div></li>
-                                <li> <div class="thumb-content"><a href="#.">Projects</a></div></li>
-                                <li> <div class="thumb-content"><a href="#.">Technology</a></div></li>
-                                <li> <div class="thumb-content"><a href="#.">Contact</a></div></li> 
+                                <li> <div class="thumb-content"><a href="/Resume">Resume</a></div></li>
+                                <li> <div class="thumb-content"><a href="/Blog">Blog</a></div></li>
+                                <li> <div class="thumb-content"><a href="/Projects">Projects</a></div></li>
+                                <li> <div class="thumb-content"><a href="/Technology">Technology</a></div></li>
+                                <li> <div class="thumb-content"><a href="/Contact">Contact</a></div></li> 
                             </ul>
                         </div>
                     </div>
